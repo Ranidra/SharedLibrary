@@ -1,14 +1,14 @@
 def call(String sayWhat="nothing"){
 	if(sayWhat=="hi")
 	{
-		echo "Hi Zartab"
+		echo "Hi Ranga"
 	}
 	else if(sayWhat=="hello")
 	{
-		echo "Hello Zartab"
+		echo "Hello Ranga"
 	}
 	else
 	{
-		echo "Whats Up Zartab"
+		echo "Whats Up Ranga"
 	}
 }
